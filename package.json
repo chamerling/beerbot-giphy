@@ -30,9 +30,5 @@
   "scripts": {
     "test": "gulp"
   },
-  "license": "MIT",
-  "dependencies": {
-    "q": "^1.4.1",
-    "request": "^2.65.0"
-  }
+  "license": "MIT"
 }
