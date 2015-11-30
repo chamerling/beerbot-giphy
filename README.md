@@ -13,8 +13,6 @@ $ npm install --save beerbot-giphy
 
 ```js
 var beerbotGiphy = require('beerbot-giphy');
-
-beerbotGiphy('Rainbow');
 ```
 
 ## License
